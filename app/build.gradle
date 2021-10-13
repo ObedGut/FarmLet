@@ -65,4 +65,7 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.4.0-alpha03")
     //coroutines kotlin
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.0")
+
+    //viewPAger2
+    implementation("androidx.viewpager2:viewpager2:1.0.0")
 }
